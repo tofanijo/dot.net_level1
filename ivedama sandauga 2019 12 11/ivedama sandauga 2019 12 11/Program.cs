@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace sandauga_dalyba
+namespace ivedama_sandauga_2019_12_11
 {
     class Program
     {
@@ -12,76 +12,33 @@ namespace sandauga_dalyba
         {
             Console.WriteLine("Sveiki!");
 
+
+
+
             string ratas = "";
             Console.WriteLine("skaicius1:");
             ratas = Console.ReadLine();
-            
-           
+
+
             string batas = "";
             Console.WriteLine("skaicius2:");
             batas = Console.ReadLine();
-            
-            
-            int ratasInt;
-            int batasInt = 0;
-            int.TryParse(ratas, out ratasInt);
-            int.TryParse(batas, out batasInt);
-            int balance = ratasInt * batasInt;
-            
+           
+
+
+
+
+
+            Console.WriteLine("Sandauga {0}", ratas + batas);
             Console.ReadLine();
-
-
-
         }
     }
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-            
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-   
     
-        
-        
-      
 
 
-            
+    
 
 
-     
+
