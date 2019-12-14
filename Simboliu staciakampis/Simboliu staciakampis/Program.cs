@@ -18,6 +18,7 @@ namespace Simboliu_staciakampis
             Console.WriteLine("{0} {0} {0} {0} {0} {0}", staciakampis);
             Console.WriteLine("{0}         {0}", staciakampis);
             Console.WriteLine("{0}         {0}", staciakampis);
+
             Console.WriteLine("{0}         {0}", staciakampis);
             Console.WriteLine("{0}         {0}", staciakampis);
             Console.WriteLine("{0}         {0}", staciakampis);
